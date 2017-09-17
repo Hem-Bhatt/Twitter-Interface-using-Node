@@ -13,3 +13,5 @@ module.exports = config;
 
 **NOTE**
 Keys & Access tokens require read, write, and direct messages access!
+
+![alt text](https://raw.githubusercontent.com/username/Twitter-Interface-using-Node/blob/master/screenshots/twiti.png)
